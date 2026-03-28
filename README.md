@@ -2,6 +2,10 @@
 
 支持 Android、iOS、MacOS、Windows 平台的 Subsonic/Navidrome/Jellyfin/Emby/AudioStation/Plex 客户端。
 
+> 此仓库已归档，目前正在全力开发音流新版本。
+
+**新版本问题可前往 https://github.com/liuyincs/musiver 反馈，复现步骤越详细，越容易解决您的问题。**
+
 简体中文 | [English](./README_en.md)
 
 ![](https://oss2.aqzscn.cn/resource/blog/img/2024/60b87-ca3fefb87f148b5c03ecf069fb1f95ab.png)
